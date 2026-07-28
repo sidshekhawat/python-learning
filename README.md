@@ -14,23 +14,28 @@ This repository contains my Python practice and learning exercises as I build a 
 - Loops
 - Collections
 - Random Numbers
+- Functions
+- Arguments
 
 
 ## Repository Structure
 
 ```
 python-learning/
-├── 01_variables/
-├── 02_typecasting/
-├── 03_user-input/
-├── 04_if-statements
-├── 05_logical-operators
-├── 06_conditional-expressions
-├── 07_string-methods
-├── 09_loops
-├── 10_collections
-├── 11_random-numbers
-├── python_number_guessing_game
+├── 01-variables/
+├── 02-typecasting/
+├── 03-user-input/
+├── 04-augmented-assignment-operators/
+├── 05-if-statements/
+├── 06-logical-operators/
+├── 07-conditional-expressions/
+├── 08-string-methods/
+├── 09-loops/
+├── 10-collections/
+├── 11-random-numbers/
+├── 12-functions
+├── 13-arguments
+└── README.md
 ```
 
 Each folder contains practice code and examples for a specific topic.
