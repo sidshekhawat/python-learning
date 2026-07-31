@@ -16,6 +16,18 @@ This repository contains my Python practice and learning exercises as I build a 
 - Random Numbers
 - Functions
 - Arguments
+- Iterables
+- Membership Operators
+- List Comprehension
+- Matchcase Statements
+- Modules
+- Scope
+- if__name__==__main__
+- OOP's
+- Class Variables
+- Inheritance
+- Super()
+- Polymorphism
 
 
 ## Repository Structure
@@ -35,6 +47,18 @@ python-learning/
 ├── 11-random-numbers/
 ├── 12-functions
 ├── 13-arguments
+├── 14-iterables
+├── 15-membership_ooperators
+├── 16-list_comprehension
+├── 17-matchcase_statements
+├── 18-modules
+├── 19-scope
+├── 20-if__name__==__main__
+├── 21-oops
+├── 22-class_variables
+├── 23-inheritance
+├── 24-super()
+├── 25-polymorphism
 └── README.md
 ```
 
